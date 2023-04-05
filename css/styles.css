@@ -12,26 +12,18 @@ p{
 }
 
 .top-container{
-    width: 200px;
-    height: 200px;
-    padding: 20px;
-    border: solid 10px;
     border-color: black;
     background-color: #BDCDD6;
 }
 
 .middle-container{
-    margin-left: 260px;
     width: 200px;
     height: 200px;
     background-color: red;
-    border: solid 20px;
 }
 
 .bottom-container{
     width: 200px;
     height: 200px;
-    border: solid 10px;
-    margin-left: 500px;
     background-color: blue;
 }
