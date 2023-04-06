@@ -2,13 +2,26 @@
 body{
     margin: 0px;
     text-align: center;
+    font-family: 'Merriweather', serif;
 }
 
 h1{
-    margin: 0 auto;
+    font-size: 562.5%;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
 }
-p{
-    padding: 20px;
+
+h2{
+    font-family: 'Monserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: normal;
+    color: #66BFBF;
+}
+
+h3{
+    color: #11999E;
+    font-family: 'Monserrat', sans-serif;
 }
 
 .top-container{
@@ -18,15 +31,9 @@ p{
 }
 
 .middle-container{
-    width: 200px;
-    height: 200px;
-    background-color: red;
 }
 
 .bottom-container{
-    width: 200px;
-    height: 200px;
-    background-color: blue;
 }
 
 .top-cloud{
@@ -39,4 +46,10 @@ p{
     position: absolute;
     left: 300px;
     bottom: 300px;
+}
+.parth{
+    scale: 0.5;
+}
+.skillimage{
+    scale: 0.5;
 }
